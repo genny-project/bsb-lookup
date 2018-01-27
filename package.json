@@ -1,0 +1,25 @@
+{
+  "name": "bsb-lookup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Matt Hayward",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cors": "^2.8.3",
+    "csv": "^1.1.1",
+    "express": "^4.15.2",
+    "ftp": "^0.3.10",
+    "node-schedule": "^1.2.3"
+  },
+  "devDependencies": {
+    "eslint-plugin-flowtype": "^2.32.1",
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-plugin-babel": "^4.1.1"
+  }
+}

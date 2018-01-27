@@ -1,0 +1,8 @@
+{
+  "ftp": {
+    "host": "apca.com.au"
+  },
+  "storagePath": "data",
+  "syncInterval": 6,
+  "port": "3333"
+}
